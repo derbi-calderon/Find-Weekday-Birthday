@@ -1,0 +1,53 @@
+body{
+	margin:0px;
+}
+
+h1{
+	font-size:24px; 
+	align="center";
+	
+}
+
+table{
+	width:100%;
+	border-collapse:collapse;
+	font:14px Arial,sans-serif;"
+}
+
+label{
+	display: inline-block; 
+	width: 80px;
+}
+
+#row1{
+	padding:10px 20px;
+	background-color:#00203FFF;
+	color: #9CC3D5FF;
+}
+#Data2{
+	padding:20px;
+	background-color:#f2f2f2;
+	vertical-align:top;
+}
+#Data3{
+	width:70%;
+	padding:20px;
+	background-color:#d4d7dc;
+	vertical-align: top;
+}
+#Data4{
+	padding:5px;
+	background-color:#00203FFF;
+	color: #9CC3D5FF;
+	text-align:center;
+}
+
+#Enter_btn{
+	cursor: pointer;
+}
+
+ul{
+	list-style:none; 
+	padding:0px; 
+	line-height:24px;
+}
